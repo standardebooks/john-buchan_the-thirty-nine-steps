@@ -13,6 +13,19 @@ abbr.time{
 	white-space: nowrap;
 }
 
+blockquote header{
+	font-variant: small-caps;
+	text-align: center;
+}
+blockquote footer{
+	font-variant: small-caps;
+	text-align: right;
+}
+
+blockquote > p{
+	text-indent: 0;
+}
+
 .signature{
 	font-variant: small-caps;
 }
