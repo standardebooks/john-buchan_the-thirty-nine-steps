@@ -16,11 +16,13 @@ abbr.time{
 blockquote header{
 	font-variant: small-caps;
 	text-align: center;
+	margin-bottom: 1em;
 }
 
 blockquote footer{
 	font-variant: small-caps;
 	text-align: right;
+	margin-top: 1em;
 }
 
 blockquote > p{
