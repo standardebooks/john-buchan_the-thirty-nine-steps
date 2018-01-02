@@ -13,16 +13,19 @@ abbr.time{
 	white-space: nowrap;
 }
 
-blockquote header{
+header{
 	font-variant: small-caps;
 	text-align: center;
 	margin-bottom: 0.5em;
 }
 
-blockquote footer{
-	font-variant: small-caps;
+footer{
 	text-align: right;
 	margin-top: 0.5em;
+}
+
+section[epub|type~="dedication"]{
+	font-style: italic;
 }
 
 blockquote > p{
