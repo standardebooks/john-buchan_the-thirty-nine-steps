@@ -13,10 +13,12 @@ abbr.time{
 	white-space: nowrap;
 }
 
-blockquote header{
+[epub|type~="dedication"] header p,
+blockquote header p{
 	font-variant: small-caps;
 	text-align: center;
 	margin-bottom: 1em;
+	text-indent: 0;
 }
 
 footer{
@@ -24,10 +26,7 @@ footer{
 	margin-top: 1em;
 }
 
-section[epub|type~="dedication"]{
-	font-style: italic;
-}
-
+[epub|type~="dedication"] p + p,
 blockquote p{
 	text-indent: 0;
 }
