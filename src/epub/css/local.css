@@ -13,6 +13,10 @@ abbr.time{
 	white-space: nowrap;
 }
 
+[epub|type~="dedication"] header{
+	margin-top: 4em;
+}
+
 [epub|type~="dedication"] header p,
 blockquote header p{
 	font-variant: small-caps;
