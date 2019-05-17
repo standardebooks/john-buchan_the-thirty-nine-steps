@@ -26,21 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Thirty-Nine Steps</dc:title>
 		<meta property="file-as" refines="#title">Thirty-Nine Steps, The</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Spy stories</dc:subject>
 		<dc:subject id="subject-3">Hannay, Richard (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Intelligence service -- Great Britain -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/558</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/558</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/558</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/558</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008113819</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85127066</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008121384</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008104773</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Adventure</meta>
 		<dc:description id="description">An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Published in 1915, &lt;i&gt;The Thirty-Nine Steps&lt;/i&gt; is a thriller set in Britain on the eve of the First World War.&lt;/p&gt;
 			&lt;p&gt;The novel’s protagonist, Richard Hannay, is an expatriate Scot who has just returned to London after many years in South Africa working in the mining industry. He finds England extremely dull and is just considering returning to South Africa when he is accosted by another inhabitant of the block of flats where he is living.&lt;/p&gt;
@@ -49,7 +52,6 @@
 			&lt;p&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt; was immediately popular, particularly with troops in the trenches of the First World War. It has remained popular and has been used as the basis for several movies including one directed by Alfred Hitchcock in 1935. It could also be seen as the prototype of several similarly-themed movies and television shows such as &lt;i&gt;The Fugitive&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;John Buchan continued the adventures of Richard Hannay in a series of sequels. He also had a highly distinguished government and diplomatic career, ultimately becoming Governor General of Canada.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/558</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100595293</dc:source>
