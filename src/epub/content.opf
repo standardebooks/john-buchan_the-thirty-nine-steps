@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/558</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100595293</dc:source>
 		<dc:source>https://archive.org/details/thirtyninesteps00buch_2</dc:source>
-		<meta property="se:word-count">41573</meta>
+		<meta property="se:word-count">41571</meta>
 		<meta property="se:reading-ease.flesch">80.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Thirty-Nine_Steps</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-buchan_the-thirty-nine-steps</meta>
