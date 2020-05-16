@@ -44,7 +44,8 @@
 		<meta property="term" refines="#subject-4">sh2008104773</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta property="se:collection">Richard Hannay</meta>
+		<meta property="belongs-to-collection" id="collection-1">Richard Hannay</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Published in 1915, &lt;i&gt;The Thirty-Nine Steps&lt;/i&gt; is a thriller set in Britain on the eve of the First World War.&lt;/p&gt;
