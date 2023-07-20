@@ -49,6 +49,8 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">42</meta>
+		<meta id="collection-3" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
 		<dc:description id="description">An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Published in 1915, &lt;i&gt;The Thirty-Nine Steps&lt;/i&gt; is a thriller set in Britain on the eve of the First World War.&lt;/p&gt;
