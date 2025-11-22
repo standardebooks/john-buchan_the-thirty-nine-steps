@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Thirty-Nine Steps</dc:title>
 		<meta property="file-as" refines="#title">Thirty-Nine Steps, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The 39 Steps</meta>
+		<meta property="dcterms:alternative" refines="#title">The 39 Steps</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Spy stories</dc:subject>
 		<dc:subject id="subject-3">Hannay, Richard (Fictitious character) -- Fiction</dc:subject>
