@@ -78,7 +78,7 @@
 		<meta property="schema:wordCount">41003</meta>
 		<meta property="schema:educationalLevel">80.62</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Thirty-Nine_Steps" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/john-buchan_the-thirty-nine-steps" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">John Buchan</dc:creator>
