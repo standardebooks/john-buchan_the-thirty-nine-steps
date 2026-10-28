@@ -89,6 +89,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Peter Graham</dc:contributor>
 		<meta property="file-as" refines="#artist">Graham, Peter</meta>
+		<link href="https://en.wikipedia.org/wiki/Peter_Graham_(artist)" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jo Churcher</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Churcher, Jo</meta>
